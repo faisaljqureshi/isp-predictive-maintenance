@@ -1,0 +1,7 @@
+streamlit>=1.41
+plotly>=5.24
+pandas>=2.1
+python-dotenv>=1.0
+RouterOS-api>=0.17
+streamlit-autorefresh>=1.0
+telnetlib-313-and-up>=3.13; python_version >= "3.13"
